@@ -1,16 +1,12 @@
 {
-  "name": "reactjs-vite-tailwindcss-boilerplate",
-  "description": "This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.",
+  "name": "fortune-wheel-game",
+  "description": "This is a Fortune Wheel game done with Vite, React 18, TypeScript, TailwindCSS 3, Eslint and Prettier.",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "João Paulo Moraes",
-    "email": "joaopaulomoraes@outlook.com",
-    "url": "https://github.com/joaopaulomoraes"
-  },
-  "bugs": {
-    "url": "https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate/issues",
-    "email": "joaopaulomoraes@outlook.com"
+    "name": "Óscar 'Nebe' Abad",
+    "email": "n3bb3z4r@gmail.com",
+    "url": "https://github.com/N3BB3Z4R"
   },
   "scripts": {
     "dev": "vite --host",
