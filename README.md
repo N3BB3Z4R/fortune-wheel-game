@@ -1,4 +1,4 @@
-# React Tailwindcss Boilerplate build with Vite
+# Wheel of Fortune Game (made with ReactJS-TS-TailwindCSS)
 
 ![Wheel of Fortune Screenshot](screenshot.png)
 
