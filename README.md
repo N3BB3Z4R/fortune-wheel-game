@@ -1,4 +1,4 @@
-# Wheel of Fortune Game (made with ReactJS-TS-TailwindCSS)
+# Wheel of Fortune Game
 
 ![Wheel of Fortune Screenshot](screenshot.png)
 
