@@ -21,6 +21,7 @@ Clone repository and install dependencies.
 
 ```bash
 git clone https://github.com/N3BB3Z4R/fortune-wheel-game.git
+```
 
 ```bash
 npm install
